@@ -1,0 +1,9 @@
+{
+  ".jpeg" : "image/jpeg",
+  ".html" : "text/html",
+  ".css"  : "text/css",
+  ".js"   : "application/javascript",
+  ".map"  : "application/javascript",
+  ".json" : "application/javascript",
+  ".aac"  : "audio/x-aac"
+}
